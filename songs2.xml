@@ -1,0 +1,19 @@
+<?xml-stylesheet type="text/xsl" href="cdcatalog.xsl"?>
+
+<songs>
+    <song dateplayed="2011-07-24 19:40:26">
+        <title>Ii left my heart on Europa</title>
+        <artist>Ship of Nomads</artist>
+	<price>450</price>
+    </song>
+    <song dateplayed="2011-07-24 19:27:42">
+        <title>Oh Ganymede</title>
+        <artist>Beefachanga</artist>
+	<price>350</price>
+    </song>
+    <song dateplayed="2011-07-24 19:23:50">
+        <title>Kallichore</title>
+        <artist>Jewitt K. Sheppard</artist>
+	<price>750</price>
+    </song>
+</songs>

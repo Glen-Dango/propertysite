@@ -1,0 +1,818 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<agency branchName="Williams Estate Agents (Hereford) Ltd" name="WilliamsEstateAgents" xsi:noNamespaceSchemaLocation="http://www.expertagent.co.uk/xmlexport/ExpertAgentXMLSchema.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+
+<branches>
+
+
+<branch name="Williams Estate Agents (Hereford) Ltd">
+
+
+<properties>
+
+<property reference="00000219">
+
+<availableFrom/>
+
+<instructedDate>08/12/2017 08:48:07</instructedDate>
+
+<department>Residential Sales</department>
+
+<propertyofweek>NO</propertyofweek>
+
+<price_text>Guide Price £117,250</price_text>
+
+<numeric_price>117250.0000</numeric_price>
+
+<bedrooms>2</bedrooms>
+
+<receptions>1</receptions>
+
+<bathrooms>1</bathrooms>
+
+<priority>Exchanged</priority>
+
+<tenure>Freehold</tenure>
+
+<advert_heading>Meadow Way, Hereford</advert_heading>
+
+<main_advert>This property opens an opportunity for someone to purchase at a discounted price - 70% of full market value(Subject to criteria). Beautifully presented with downstairs cloakroom, two double bedrooms, modern fittings and Conservatory. EPC - C</main_advert>
+
+<advert2>This property opens an opportunity for someone to purchase at a discounted price - 70% of full market value(Subject to criteria). Beautifully presented with downstairs cloakroom, two double bedrooms, modern fittings and Conservatory. EPC - C</advert2>
+
+<advert3/>
+
+<advert4>Located in the modern development of Saxongate., shops, School catchments and local parks to enjoy locally.</advert4>
+
+<advert5>Leave the city southbound on the Ross Road. Proceed over the 'X' junction, then left in to Bullingham Lane. Left in to Waggoners Way and proceed, turning right at the T junction, then left in to Meadow Way.</advert5>
+
+<advert6/>
+
+<house_number>17</house_number>
+
+<street>Meadow Way</street>
+
+<district>Saxongate</district>
+
+<town>Hereford</town>
+
+<county>Herefordshire</county>
+
+<postcode>HR2 6SG</postcode>
+
+<country>UK</country>
+
+<area>Hereford City South East</area>
+
+<bullet1>Beautifully Presented</bullet1>
+
+<bullet2>Two Double Bedrooms</bullet2>
+
+<bullet3>Conservatory</bullet3>
+
+<bullet4>Parking and Garden</bullet4>
+
+<bullet5>Downstairs Cloakroom</bullet5>
+
+<bullet6/>
+
+<bullet7/>
+
+<bullet8/>
+
+<bullet9/>
+
+<bullet10/>
+
+<bullet11/>
+
+<bullet12/>
+
+<bullet13/>
+
+<bullet14/>
+
+<bullet15/>
+
+<bullet16/>
+
+<bullet17/>
+
+<bullet18/>
+
+<bullet19/>
+
+<bullet20/>
+
+<brochure>http://med01.expertagent.co.uk/in4glestates/{61A49F7A-426D-413B-AEB0-CAE7ABF18235}/{75135F2F-6E21-4634-A11D-14FE07ECD8F0}/external.pdf</brochure>
+
+<agency_region>Herefordshire</agency_region>
+
+<agency_district>Hereford</agency_district>
+
+<agency_location>Hereford City South East</agency_location>
+
+<web_link>http://www.williamsestateagents.co.uk/index.php?option=com_eapow&amp;format=html&amp;task=property.getProp&amp;?pid=75135F2F-6E21-4634-A11D-14FE07ECD8F0&amp;aid=61A49F7A-426D-413B-AEB0-CAE7ABF18235</web_link>
+
+<latitude>52.0404357910156</latitude>
+
+<longitude>-2.71577191352844</longitude>
+
+<qrcode>http://med01.expertagent.co.uk/in4glestates/{61A49F7A-426D-413B-AEB0-CAE7ABF18235}/{75135F2F-6E21-4634-A11D-14FE07ECD8F0}/qr.png</qrcode>
+
+<epc>http://med01.expertagent.co.uk/in4glestates/{61A49F7A-426D-413B-AEB0-CAE7ABF18235}/{75135F2F-6E21-4634-A11D-14FE07ECD8F0}/HIPS/EPC_73917392.png</epc>
+
+<hips/>
+
+<filename3/>
+
+<filename4/>
+
+<filename5/>
+
+<filename6/>
+
+<virtual_tour_url/>
+
+<property_type>House</property_type>
+
+<commercial_type/>
+
+<property_style>Terraced</property_style>
+
+<property_reference>6556297</property_reference>
+
+<newHome>NO</newHome>
+
+<noChain>NO</noChain>
+
+<furnished>Unknown</furnished>
+
+<portalFee/>
+
+<currency/>
+
+<featuredProperty>NO</featuredProperty>
+
+<number1 name="" value="0"/>
+
+<number2 name="" value="0"/>
+
+<number3 name="" value="0"/>
+
+<number4 name="" value="0"/>
+
+<number5 name="" value="0"/>
+
+<number6 name="" value="0"/>
+
+<number7 name="" value="0"/>
+
+<number8 name="" value="0"/>
+
+<number9 name="" value="0"/>
+
+<number10 name="" value="0"/>
+
+
+-<rooms>
+
+
+-<room name="Entrance">
+
+<measurement_text/>
+
+<description>The entrance has a small stud wall for hanging of coats and placing of shoes and is open plan to the</description>
+
+</room>
+
+
+<room name="Kitchen/Diner">
+
+<measurement_text>13' 7'' x 10' 1'' (4.14m x 3.07m)</measurement_text>
+
+<description>with a range of base and wall units, built in cooker and hob with extractor over, sink with tap and drainer, front aspect double glazed window, tile flooring, radiator, space for washing machine and fridge with space for dining table and chairs with stairs to first floor and door to</description>
+
+</room>
+
+
+<room name="Downstairs WC">
+
+<measurement_text/>
+
+<description>with suite of WC and wash hand basin, radiator, extractor and front aspect obscured double glazed window.</description>
+
+</room>
+
+
+<room name="Lounge">
+
+<measurement_text>13' 7'' x 10' 3'' (4.14m x 3.12m)</measurement_text>
+
+<description>with TV point, power points, radiator, rear aspect double glazed french door leading to the Conservatory</description>
+
+</room>
+
+
+<room name="Conservatory">
+
+<measurement_text>10' 2'' x 10' 1'' (3.10m x 3.07m)</measurement_text>
+
+<description>with double glazed windows and doors, fitted blinds, double doors to the rear Garden.</description>
+
+</room>
+
+
+<room name="First Floor Landing">
+
+<measurement_text/>
+
+<description>with loft access and doors to</description>
+
+</room>
+
+
+<room name="Bedroom 1">
+
+<measurement_text>13' 7'' x 10' 1'' (4.14m x 3.07m)</measurement_text>
+
+<description>with front aspect double glazed window, radiator, Phone point, built in storage cupboard housing water tank, two insets which easily accomodate wardrobes or even a desk.</description>
+
+</room>
+
+
+<room name="Bedroom 2">
+
+<measurement_text>10' 2'' x 6' 1'' (3.10m x 1.85m)</measurement_text>
+
+<description>with rear aspect double glazed window, radiator, fitted carpet and power points.</description>
+
+</room>
+
+
+<room name="Bathroom">
+
+<measurement_text/>
+
+<description>with suite of WC, wash hand basin and bath with shower over, radiator, tile effect flooring, extractor and shower rail.</description>
+
+</room>
+
+
+<room name="Exterior">
+
+<measurement_text/>
+
+<description>The property has one parking space to the front. The rear has a decked area from the conservatory which leads to a lawned garden with a shed to the bottom and a gate for rear access.</description>
+
+</room>
+
+</rooms>
+
+
+<pictures>
+
+
+<picture name="Photo 13" lastchanged="2016-11-04T15:36:22.5177254Z">
+
+<filename>http://med05.expertagent.co.uk/in4glestates/{61a49f7a-426d-413b-aeb0-cae7abf18235}/{75135f2f-6e21-4634-a11d-14fe07ecd8f0}/main/DSC00686.jpg</filename>
+
+</picture>
+
+
+<picture name="Photo 7" lastchanged="2016-11-04T15:36:00.4119586Z">
+
+<filename>http://med05.expertagent.co.uk/in4glestates/{61a49f7a-426d-413b-aeb0-cae7abf18235}/{75135f2f-6e21-4634-a11d-14fe07ecd8f0}/main/DSC00652.jpg</filename>
+
+</picture>
+
+
+-<picture name="Photo 1" lastchanged="2016-11-04T15:35:34.8117022Z">
+
+<filename>http://med05.expertagent.co.uk/in4glestates/{61a49f7a-426d-413b-aeb0-cae7abf18235}/{75135f2f-6e21-4634-a11d-14fe07ecd8f0}/main/DSC00640.jpg</filename>
+
+</picture>
+
+
+-<picture name="Photo 12" lastchanged="2016-11-04T15:36:18.5864246Z">
+
+<filename>http://med05.expertagent.co.uk/in4glestates/{61a49f7a-426d-413b-aeb0-cae7abf18235}/{75135f2f-6e21-4634-a11d-14fe07ecd8f0}/main/DSC00671.jpg</filename>
+
+</picture>
+
+
+-<picture name="Photo 4" lastchanged="2016-11-04T15:35:48.0408414Z">
+
+<filename>http://med05.expertagent.co.uk/in4glestates/{61a49f7a-426d-413b-aeb0-cae7abf18235}/{75135f2f-6e21-4634-a11d-14fe07ecd8f0}/main/DSC00647.jpg</filename>
+
+</picture>
+
+
+-<picture name="Photo 2" lastchanged="2016-11-04T15:35:38.8054046Z">
+
+<filename>http://med05.expertagent.co.uk/in4glestates/{61a49f7a-426d-413b-aeb0-cae7abf18235}/{75135f2f-6e21-4634-a11d-14fe07ecd8f0}/main/DSC00643.jpg</filename>
+
+</picture>
+
+
+-<picture name="Photo 3" lastchanged="2016-11-04T15:35:43.2203178Z">
+
+<filename>http://med05.expertagent.co.uk/in4glestates/{61a49f7a-426d-413b-aeb0-cae7abf18235}/{75135f2f-6e21-4634-a11d-14fe07ecd8f0}/main/DSC00645.jpg</filename>
+
+</picture>
+
+
+-<picture name="Photo 5" lastchanged="2016-11-04T15:35:52.8145638Z">
+
+<filename>http://med05.expertagent.co.uk/in4glestates/{61a49f7a-426d-413b-aeb0-cae7abf18235}/{75135f2f-6e21-4634-a11d-14fe07ecd8f0}/main/DSC00649.jpg</filename>
+
+</picture>
+
+
+-<picture name="Photo 6" lastchanged="2016-11-04T15:35:56.7146638Z">
+
+<filename>http://med05.expertagent.co.uk/in4glestates/{61a49f7a-426d-413b-aeb0-cae7abf18235}/{75135f2f-6e21-4634-a11d-14fe07ecd8f0}/main/DSC00651.jpg</filename>
+
+</picture>
+
+
+-<picture name="Photo 8" lastchanged="2016-11-04T15:36:04.2340566Z">
+
+<filename>http://med05.expertagent.co.uk/in4glestates/{61a49f7a-426d-413b-aeb0-cae7abf18235}/{75135f2f-6e21-4634-a11d-14fe07ecd8f0}/main/DSC00654.jpg</filename>
+
+</picture>
+
+
+-<picture name="Photo 9" lastchanged="2016-11-04T15:36:07.5881426Z">
+
+<filename>http://med05.expertagent.co.uk/in4glestates/{61a49f7a-426d-413b-aeb0-cae7abf18235}/{75135f2f-6e21-4634-a11d-14fe07ecd8f0}/main/DSC00656.jpg</filename>
+
+</picture>
+
+
+-<picture name="Photo 10" lastchanged="2016-11-04T15:36:10.879827Z">
+
+<filename>http://med05.expertagent.co.uk/in4glestates/{61a49f7a-426d-413b-aeb0-cae7abf18235}/{75135f2f-6e21-4634-a11d-14fe07ecd8f0}/main/DSC00662.jpg</filename>
+
+</picture>
+
+
+-<picture name="Photo 11" lastchanged="2016-11-04T15:36:14.9047302Z">
+
+<filename>http://med05.expertagent.co.uk/in4glestates/{61a49f7a-426d-413b-aeb0-cae7abf18235}/{75135f2f-6e21-4634-a11d-14fe07ecd8f0}/main/DSC00670.jpg</filename>
+
+</picture>
+
+</pictures>
+
+
+-<floorplans>
+
+
+-<floorplan name="">
+
+<filename>http://med05.expertagent.co.uk/in4glestates/{61a49f7a-426d-413b-aeb0-cae7abf18235}/{75135f2f-6e21-4634-a11d-14fe07ecd8f0}/Floorplan_Floorplan1.jpg</filename>
+
+</floorplan>
+
+
+-<floorplan name="">
+
+<filename>http://med05.expertagent.co.uk/in4glestates/{61a49f7a-426d-413b-aeb0-cae7abf18235}/{75135f2f-6e21-4634-a11d-14fe07ecd8f0}/Floorplan_Floorplan2.jpg</filename>
+
+</floorplan>
+
+</floorplans>
+
+</property>
+
+
+-<property reference="00000226">
+
+<availableFrom/>
+
+<instructedDate>25/08/2016 16:25:30</instructedDate>
+
+<department>Residential Sales</department>
+
+<propertyofweek>NO</propertyofweek>
+
+<price_text>Offers in the Region Of £314,950</price_text>
+
+<numeric_price>314950.0000</numeric_price>
+
+<bedrooms>4</bedrooms>
+
+<receptions>2</receptions>
+
+<bathrooms>1</bathrooms>
+
+<priority>Exchanged</priority>
+
+<tenure>Freehold</tenure>
+
+<advert_heading>Much Birch, Hereford</advert_heading>
+
+<main_advert>A deceptively large four double bedroom detached period house set in its own grounds in Much Birch. </main_advert>
+
+<advert2>A deceptively large four double bedroom detached period house set in its own grounds in Much Birch. </advert2>
+
+<advert3/>
+
+<advert4>Located in the popular rural village of Much Birch with a Public House, School Catchments and routes to surround Towns and Villages.</advert4>
+
+<advert5>Head South on Ross Road until reaching Much Birch. Proceed toward The Axe and Cleaver. Approximately 400 metres before reaching the Axe and Cleaver, there is a small turning left in to an access track for several properties. There is a small red triangle on a post to donate this entrance. Follow the track until reaching the last property. </advert5>
+
+<advert6/>
+
+<house_number>White House</house_number>
+
+<street>Much Birch</street>
+
+<district>Much Birch</district>
+
+<town>Hereford</town>
+
+<county>Herefordshire</county>
+
+<postcode>HR2 8HU</postcode>
+
+<country>UK</country>
+
+<area>Hereford Villages South</area>
+
+<bullet1>Detached with large grounds</bullet1>
+
+<bullet2>Modernising Potential</bullet2>
+
+<bullet3>Popular Village Location</bullet3>
+
+<bullet4>No Onward Chain</bullet4>
+
+<bullet5>Viewing Highly Recommended</bullet5>
+
+<bullet6/>
+
+<bullet7/>
+
+<bullet8/>
+
+<bullet9/>
+
+<bullet10/>
+
+<bullet11/>
+
+<bullet12/>
+
+<bullet13/>
+
+<bullet14/>
+
+<bullet15/>
+
+<bullet16/>
+
+<bullet17/>
+
+<bullet18/>
+
+<bullet19/>
+
+<bullet20/>
+
+<brochure>http://med01.expertagent.co.uk/in4glestates/{61A49F7A-426D-413B-AEB0-CAE7ABF18235}/{9FAE7941-EB1B-4572-84C5-D8C941FC8830}/external.pdf</brochure>
+
+<agency_region>Herefordshire</agency_region>
+
+<agency_district>Hereford</agency_district>
+
+<agency_location>Hereford Villages South</agency_location>
+
+<web_link>http://www.williamsestateagents.co.uk/index.php?option=com_eapow&amp;format=html&amp;task=property.getProp&amp;?pid=9FAE7941-EB1B-4572-84C5-D8C941FC8830&amp;aid=61A49F7A-426D-413B-AEB0-CAE7ABF18235</web_link>
+
+<latitude>51.96738</latitude>
+
+<longitude>-2.714902</longitude>
+
+<qrcode>http://med01.expertagent.co.uk/in4glestates/{61A49F7A-426D-413B-AEB0-CAE7ABF18235}/{9FAE7941-EB1B-4572-84C5-D8C941FC8830}/qr.png</qrcode>
+
+<epc/>
+
+<hips/>
+
+<filename3/>
+
+<filename4/>
+
+<filename5/>
+
+<filename6/>
+
+<virtual_tour_url/>
+
+<property_type>House</property_type>
+
+<commercial_type/>
+
+<property_style>Detached</property_style>
+
+<property_reference>6580654</property_reference>
+
+<newHome>NO</newHome>
+
+<noChain>NO</noChain>
+
+<furnished>Unknown</furnished>
+
+<portalFee/>
+
+<currency/>
+
+<featuredProperty>YES</featuredProperty>
+
+<number1 name="" value="0"/>
+
+<number2 name="" value="0"/>
+
+<number3 name="" value="0"/>
+
+<number4 name="" value="0"/>
+
+<number5 name="" value="0"/>
+
+<number6 name="" value="0"/>
+
+<number7 name="" value="0"/>
+
+<number8 name="" value="0"/>
+
+<number9 name="" value="0"/>
+
+<number10 name="" value="0"/>
+
+
+-<rooms>
+
+
+-<room name="Entrance Porch">
+
+<measurement_text/>
+
+<description>with door to under-stairs storage, windows and door to</description>
+
+</room>
+
+
+-<room name="Entrance Hall">
+
+<measurement_text/>
+
+<description>A spacious hallway with stairs to first floor and doors leading to</description>
+
+</room>
+
+
+-<room name="Integral Garage">
+
+<measurement_text>15' 6'' x 9' 1'' (4.72m x 2.77m)</measurement_text>
+
+<description>with barn door access, central heating and water Oil Boiler, power points and lighting.</description>
+
+</room>
+
+
+-<room name="Living Room">
+
+<measurement_text>16' 2'' x 14' 8'' (4.92m x 4.47m)</measurement_text>
+
+<description>From hallway; with dual aspect windows, TV point, power points and fireplace and door leading to</description>
+
+</room>
+
+
+-<room name="Conservatory">
+
+<measurement_text>13' 8'' x 7' 3'' (4.16m x 2.21m)</measurement_text>
+
+<description>with tiled flooring, door to Garden and double doors leading back through to the</description>
+
+</room>
+
+
+-<room name="Dining Room">
+
+<measurement_text>14' 1'' x 12' 0'' (4.29m x 3.65m)</measurement_text>
+
+<description>with side aspect window and power points.</description>
+
+</room>
+
+
+-<room name="Downstairs WC">
+
+<measurement_text/>
+
+<description>with tiled flooring, front aspect window, WC and wash hand basin.</description>
+
+</room>
+
+
+-<room name="Kitchen">
+
+<measurement_text>16' 3'' x 13' 6'' (4.95m x 4.11m)</measurement_text>
+
+<description>with tiled flooring, multi aspect windows, a range of base and wall units with built in cooker and how, sink with taps and drainer. With ample space to accommodate a dining table and chairs, utility area and separate hallway with door to the driveway.</description>
+
+</room>
+
+
+-<room name="First Floor Landing">
+
+<measurement_text/>
+
+<description>A spacious and light landing with side aspect window, loft access and door leading to</description>
+
+</room>
+
+
+-<room name="Bedroom 1">
+
+<measurement_text>15' 4'' x 14' 1'' (4.67m x 4.29m)</measurement_text>
+
+<description>with dual aspect windows, two bulit-in wardrobes, power points and radiator.</description>
+
+</room>
+
+
+-<room name="Bedroom 2">
+
+<measurement_text>14' 5'' x 12' 8'' (4.39m x 3.86m)</measurement_text>
+
+<description>with dual aspect windows, power points and radiator.</description>
+
+</room>
+
+
+-<room name="Bedroom 3">
+
+<measurement_text>14' 1'' x 11' 8'' (4.29m x 3.55m)</measurement_text>
+
+<description>with dual aspect windows, eaves storage, power points and radiator.</description>
+
+</room>
+
+
+-<room name="Bedroom 4">
+
+<measurement_text>10' 7'' x 8' 10'' (3.22m x 2.69m)</measurement_text>
+
+<description>with eaves storage, side aspect window, power points and radiator.</description>
+
+</room>
+
+
+-<room name="Exterior">
+
+<measurement_text/>
+
+<description/>
+
+</room>
+
+</rooms>
+
+
+-<pictures>
+
+
+-<picture name="Photo 1" lastchanged="2016-04-15T11:58:31.6505907Z">
+
+<filename>http://med05.expertagent.co.uk/in4glestates/{61a49f7a-426d-413b-aeb0-cae7abf18235}/{9fae7941-eb1b-4572-84c5-d8c941fc8830}/main/Muchgfd.jpg</filename>
+
+</picture>
+
+
+-<picture name="Photo 2" lastchanged="2016-04-15T12:01:46.1645499Z">
+
+<filename>http://med05.expertagent.co.uk/in4glestates/{61a49f7a-426d-413b-aeb0-cae7abf18235}/{9fae7941-eb1b-4572-84c5-d8c941fc8830}/main/DSC06511.jpg</filename>
+
+</picture>
+
+
+-<picture name="Photo 3" lastchanged="2016-04-15T12:01:51.2660442Z">
+
+<filename>http://med05.expertagent.co.uk/in4glestates/{61a49f7a-426d-413b-aeb0-cae7abf18235}/{9fae7941-eb1b-4572-84c5-d8c941fc8830}/main/DSC06513.jpg</filename>
+
+</picture>
+
+
+-<picture name="Photo 4" lastchanged="2016-04-15T12:01:56.6639556Z">
+
+<filename>http://med05.expertagent.co.uk/in4glestates/{61a49f7a-426d-413b-aeb0-cae7abf18235}/{9fae7941-eb1b-4572-84c5-d8c941fc8830}/main/DSC06515.jpg</filename>
+
+</picture>
+
+
+-<picture name="Photo 5" lastchanged="2016-04-15T12:02:01.6874454Z">
+
+<filename>http://med05.expertagent.co.uk/in4glestates/{61a49f7a-426d-413b-aeb0-cae7abf18235}/{9fae7941-eb1b-4572-84c5-d8c941fc8830}/main/DSC06531.jpg</filename>
+
+</picture>
+
+
+-<picture name="Photo 6" lastchanged="2016-04-15T12:02:06.6017289Z">
+
+<filename>http://med05.expertagent.co.uk/in4glestates/{61a49f7a-426d-413b-aeb0-cae7abf18235}/{9fae7941-eb1b-4572-84c5-d8c941fc8830}/main/DSC06533.jpg</filename>
+
+</picture>
+
+
+-<picture name="Photo 7" lastchanged="2016-04-20T08:41:29.024132Z">
+
+<filename>http://med05.expertagent.co.uk/in4glestates/{61a49f7a-426d-413b-aeb0-cae7abf18235}/{9fae7941-eb1b-4572-84c5-d8c941fc8830}/main/DSC06711.jpg</filename>
+
+</picture>
+
+
+-<picture name="Photo 8" lastchanged="2016-04-20T08:31:34.4498981Z">
+
+<filename>http://med05.expertagent.co.uk/in4glestates/{61a49f7a-426d-413b-aeb0-cae7abf18235}/{9fae7941-eb1b-4572-84c5-d8c941fc8830}/main/DSC06733.jpg</filename>
+
+</picture>
+
+
+-<picture name="Photo 9" lastchanged="2016-04-20T08:41:45.9348572Z">
+
+<filename>http://med05.expertagent.co.uk/in4glestates/{61a49f7a-426d-413b-aeb0-cae7abf18235}/{9fae7941-eb1b-4572-84c5-d8c941fc8830}/main/DSC06735.jpg</filename>
+
+</picture>
+
+
+-<picture name="Photo 10" lastchanged="2016-04-20T08:41:22.4096048Z">
+
+<filename>http://med05.expertagent.co.uk/in4glestates/{61a49f7a-426d-413b-aeb0-cae7abf18235}/{9fae7941-eb1b-4572-84c5-d8c941fc8830}/main/DSC06699.jpg</filename>
+
+</picture>
+
+
+-<picture name="Photo 11" lastchanged="2016-04-20T08:41:29.024132Z">
+
+<filename>http://med05.expertagent.co.uk/in4glestates/{61a49f7a-426d-413b-aeb0-cae7abf18235}/{9fae7941-eb1b-4572-84c5-d8c941fc8830}/main/DSC06711.jpg</filename>
+
+</picture>
+
+
+-<picture name="Photo 12" lastchanged="2016-04-20T08:41:34.8586442Z">
+
+<filename>http://med05.expertagent.co.uk/in4glestates/{61a49f7a-426d-413b-aeb0-cae7abf18235}/{9fae7941-eb1b-4572-84c5-d8c941fc8830}/main/DSC06714.jpg</filename>
+
+</picture>
+
+
+-<picture name="Photo 13" lastchanged="2016-04-20T08:41:40.6619558Z">
+
+<filename>http://med05.expertagent.co.uk/in4glestates/{61a49f7a-426d-413b-aeb0-cae7abf18235}/{9fae7941-eb1b-4572-84c5-d8c941fc8830}/main/DSC06722.jpg</filename>
+
+</picture>
+
+
+-<picture name="Photo 14" lastchanged="2016-04-20T08:41:45.9348572Z">
+
+<filename>http://med05.expertagent.co.uk/in4glestates/{61a49f7a-426d-413b-aeb0-cae7abf18235}/{9fae7941-eb1b-4572-84c5-d8c941fc8830}/main/DSC06735.jpg</filename>
+
+</picture>
+
+</pictures>
+
+
+-<floorplans>
+
+
+-<floorplan name="">
+
+<filename>http://med05.expertagent.co.uk/in4glestates/{61a49f7a-426d-413b-aeb0-cae7abf18235}/{9fae7941-eb1b-4572-84c5-d8c941fc8830}/Floorplan_1.jpg</filename>
+
+</floorplan>
+
+
+-<floorplan name="">
+
+<filename>http://med05.expertagent.co.uk/in4glestates/{61a49f7a-426d-413b-aeb0-cae7abf18235}/{9fae7941-eb1b-4572-84c5-d8c941fc8830}/Floorplan_2.jpg</filename>
+
+</floorplan>
+
+</floorplans>
+
+</property>
+
+
+
+</properties>
+
+</branch>
+
+</branches>
+
+</agency>
